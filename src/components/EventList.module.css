@@ -1,0 +1,13 @@
+.card {
+    border: 2px solid cornflowerblue;
+    box-shadow: 4px 4px 5px rgba(0,0,0,0.05);
+    padding: 10px;
+    max-width: 400px;
+    margin: 20px auto;
+    border-radius: 4px;
+}
+
+/* if we did not type ".card " down there, all the h2 s on the page would change*/
+.card h2 {
+    font-style: italic;
+}
